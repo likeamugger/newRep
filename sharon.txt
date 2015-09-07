@@ -1,0 +1,29 @@
+Who's the target user
+Name: Mary
+Age: 18 (Student)
+Background info: Needs to transfer multiple times. Stay at Punggol, study at SIT Dover.
+Personality: Impatient, always late for class, Routine person likes to follow schedule. Visual person, lazy to read too much words
+Martial Status: Single
+
+
+Name: John
+Age: 30 (Working Adult)
+Background info: Stays at Pasir Ris, work in Central as a saleman
+Likes to sleep and press snooze button. Likes to drink coffee, always like to check if there's time to grab a coffee before work
+Personality: Workaholic, thrifty
+
+
+Travelling App for people who are waiting
+- Arrival Timing
+- Crowd in transport(Color to indicate crowd)
+- Arrival Interval to plan her timing
+- Estimated time from location to destination
+
+examples 3 points (app should do) why the users want to use the app
+app should be easy to use
+real time data update
+compatibility on different platforms
+as little touch points/steps as possible
+design should look pleasing to the eyes(colour contrast, fonts, buttons placement)
+battery consumption
+personalizations and preferences in routes
